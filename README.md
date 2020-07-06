@@ -16,7 +16,7 @@ matlab causal_delta_score.m
 ```
 
 # Prioritization of causal variants
-For a given risk SNP identified from GWAS summary data, we define the 200kb region centering at this SNP as a risk loci. Then, we define the variant causality score (VCS) for a variant in the risk loci as the average (across donors) of its causal scores ΔOs calculated by OpenCausal. Finally, by ranking the variants in this risk loci according to their VCS, we can prioritize putative causal variants for the GWAS trait. The prioritization is implemented by running
+For a given risk SNP identified from GWAS summary data, we define the 200kb region centering at this SNP as a risk loci. Then, we define the variant causality score (VCS) for a variant in the risk loci by simultaneously considering the influence of variants on the chromatin accessibility of REs and the relationship between REs and the given trait. Finally, by ranking the variants in this risk loci according to their VCSs, we can prioritize putative causal variants for the GWAS trait. The prioritization is implemented by running
 
 ```
 python prioritize.py &
