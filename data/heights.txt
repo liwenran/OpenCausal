@@ -1,0 +1,635 @@
+GTEX-1117F	66.0	Postmortem	2	66	2	0	66.0	in	199.0	lb	32.12
+GTEX-111CU	70.0	Organ Donor (OPO)	1	57	3	0	70.0	in	234.0	lb	33.57
+GTEX-111FC	73.0	Postmortem	1	61	3	0	73.0	in	190.0	lb	25.06
+GTEX-111VG	69.0	Postmortem	1	63	3	0	69.0	in	200.0	lb	29.53
+GTEX-111YS	72.0	Organ Donor (OPO)	1	62	3	0	72.0	in	227.0	lb	30.78
+GTEX-1122O	66.0	Organ Donor (OPO)	2	64	3	0	66.0	in	203.0	lb	32.76
+GTEX-1128S	66.0	Postmortem	2	66	3	0	66.0	in	160.0	lb	25.82
+GTEX-113JC	66.9	Postmortem	2	53	3	0	66.9	in	178.2	lb	27.99
+GTEX-117XS	71.0	Postmortem	1	64	3	0	71.0	in	220.0	lb	30.68
+GTEX-117YW	72.0	Postmortem	1	58	3	0	72.0	in	220.0	lb	29.83
+GTEX-117YX	66.0	Organ Donor (OPO)	1	55	1	0	66.0	in	142.0	lb	22.92
+GTEX-1192W	69.0	Postmortem	1	68	3	0	69.0	in	180.0	lb	26.58
+GTEX-1192X	74.0	Postmortem	1	55	3	0	74.0	in	190.74	lb	24.49
+GTEX-11DXX	64.5	Organ Donor (OPO)	2	66	3	0	64.5	in	128.0	lb	21.63
+GTEX-11DXY	69.0	Postmortem	1	62	3	0	69.0	in	140.0	lb	20.67
+GTEX-11DXZ	66.0	Organ Donor (OPO)	1	56	2	0	66.0	in	136.0	lb	21.95
+GTEX-11DYG	67.0	Postmortem	1	63	2	99	67.0	in	200.0	lb	31.32
+GTEX-11DZ1	69.0	Postmortem	1	58	3	99	69.0	in	183.0	lb	27.02
+GTEX-11EI6	72.0	Postmortem	1	62	3	99	72.0	in	217.8	lb	29.54
+GTEX-11EM3	59.0	Organ Donor (OPO)	2	21	3	0	59.0	in	110.0	lb	22.21
+GTEX-11EMC	62.0	Postmortem	2	66	3	0	62.0	in	110.0	lb	20.12
+GTEX-11EQ8	72.0	Postmortem	1	69	3	99	72.0	in	248.6	lb	33.71
+GTEX-11EQ9	68.0	Organ Donor (OPO)	1	33	3	0	68.0	in	166.0	lb	25.24
+GTEX-11GS4	73.0	Postmortem	1	61	3	0	73.0	in	243.0	lb	32.06
+GTEX-11GSO	73.0	Postmortem	1	61	3	0	73.0	in	250.0	lb	32.98
+GTEX-11GSP	66.0	Postmortem	2	66	3	0	66.0	in	180.0	lb	29.05
+GTEX-11I78	64.0	Organ Donor (OPO)	2	51	3	0	64.0	in	171.0	lb	29.35
+GTEX-11LCK	71.0	Organ Donor (OPO)	1	38	3	0	71.0	in	239.0	lb	33.33
+GTEX-11NUK	71.0	Postmortem	1	53	3	0	71.0	in	165.0	lb	23.01
+GTEX-11NV4	70.0	Postmortem	1	64	2	0	70.0	in	200.0	lb	28.69
+GTEX-11P7K	73.0	Organ Donor (OPO)	1	37	2	0	73.0	in	159.0	lb	20.98
+GTEX-11P81	65.0	Organ Donor (OPO)	2	31	3	0	65.0	in	185.5	lb	30.87
+GTEX-11P82	70.0	Organ Donor (OPO)	1	21	3	0	70.0	in	167.0	lb	23.96
+GTEX-11PRG	70.0	Postmortem	1	54	2	99	70.0	in	240.0	lb	34.43
+GTEX-11TT1	72.0	Organ Donor (OPO)	1	22	3	0	72.0	in	171.9	lb	23.31
+GTEX-11TTK	65.0	Postmortem	2	69	3	99	65.0	in	174.0	lb	28.95
+GTEX-11TUW	69.0	Postmortem	1	66	3	99	69.0	in	226.0	lb	33.37
+GTEX-11UD1	66.0	Postmortem	2	44	2	0	66.0	in	180.0	lb	29.05
+GTEX-11UD2	69.0	Postmortem	1	59	3	0	69.0	in	188.7	lb	27.86
+GTEX-11VI4	65.0	Organ Donor (OPO)	2	47	3	0	65.0	in	194.0	lb	32.28
+GTEX-11WQC	73.0	Postmortem	1	64	2	0	73.0	in	220.0	lb	29.02
+GTEX-11WQK	68.0	Postmortem	1	55	3	0	68.0	in	156.0	lb	23.72
+GTEX-11XUK	64.0	Organ Donor (OPO)	2	48	3	0	64.0	in	137.5	lb	23.6
+GTEX-11ZTS	68.0	Postmortem	2	67	3	0	68.0	in	210.0	lb	31.93
+GTEX-11ZTT	62.0	Organ Donor (OPO)	2	67	3	0	62.0	in	140.14	lb	25.63
+GTEX-11ZUS	69.0	Postmortem	1	37	3	99	69.0	in	185.0	lb	27.32
+GTEX-11ZVC	66.0	Postmortem	2	56	3	0	66.0	in	130.0	lb	20.98
+GTEX-1211K	63.0	Organ Donor (OPO)	2	63	3	0	63.0	in	129.0	lb	22.85
+GTEX-12126	72.0	Postmortem	1	23	2	99	72.0	in	180.0	lb	24.41
+GTEX-1212Z	72.0	Postmortem	1	66	3	0	72.0	in	176.37	lb	23.92
+GTEX-12584	71.0	Postmortem	1	42	3	0	71.0	in	240.0	lb	33.47
+GTEX-12BJ1	69.0	Organ Donor (OPO)	1	61	3	0	69.0	in	164.9	lb	24.35
+GTEX-12C56	75.0	Organ Donor (OPO)	1	23	3	0	75.0	in	165.0	lb	20.62
+GTEX-12KS4	68.0	Postmortem	1	36	3	99	68.0	in	180.0	lb	27.37
+GTEX-12WS9	65.0	Postmortem	2	59	3	99	65.0	in	192.0	lb	31.95
+GTEX-12WSA	67.0	Postmortem	1	67	3	99	67.0	in	136.0	lb	21.3
+GTEX-12WSD	60.0	Postmortem	2	64	2	99	60.0	in	160.0	lb	31.24
+GTEX-12WSE	72.0	Postmortem	1	25	3	99	72.0	in	185.0	lb	25.09
+GTEX-12WSF	69.0	Postmortem	1	70	3	99	69.0	in	180.0	lb	26.58
+GTEX-12WSG	67.0	Organ Donor (OPO)	2	55	3	0	67.0	in	210.0	lb	32.89
+GTEX-12WSH	71.0	Postmortem	1	59	3	0	71.0	in	240.0	lb	33.47
+GTEX-12WSI	70.0	Postmortem	1	54	3	0	70.0	in	170.0	lb	24.39
+GTEX-12WSJ	64.0	Organ Donor (OPO)	2	43	3	0	64.0	in	187.0	lb	32.09
+GTEX-12WSK	65.0	Organ Donor (OPO)	2	41	3	0	65.0	in	157.0	lb	26.12
+GTEX-12WSL	72.0	Organ Donor (OPO)	1	51	3	0	72.0	in	235.8	lb	31.98
+GTEX-12WSM	72.0	Postmortem	1	63	3	0	72.0	in	200.0	lb	27.12
+GTEX-12WSN	70.0	Organ Donor (OPO)	1	49	3	0	70.0	in	186.7	lb	26.79
+GTEX-12ZZW	68.0	Postmortem	1	57	3	99	68.0	in	145.0	lb	22.04
+GTEX-12ZZX	65.0	Postmortem	2	49	3	99	65.0	in	177.0	lb	29.45
+GTEX-12ZZY	72.0	Postmortem	1	64	3	99	72.0	in	200.0	lb	27.12
+GTEX-12ZZZ	70.0	Postmortem	1	64	3	0	70.0	in	200.0	lb	28.69
+GTEX-13111	68.0	Organ Donor (OPO)	1	51	3	0	68.0	in	175.7	lb	26.71
+GTEX-13112	72.0	Postmortem	1	52	3	0	72.0	in	180.0	lb	24.41
+GTEX-1313W	66.0	Postmortem	2	54	3	99	66.0	in	210.0	lb	33.89
+GTEX-1314G	69.0	Organ Donor (OPO)	1	33	3	99	69.0	in	143.96	lb	21.26
+GTEX-131XE	73.0	Organ Donor (OPO)	1	50	2	0	73.0	in	263.0	lb	34.69
+GTEX-131XF	67.0	Organ Donor (OPO)	1	60	3	1	67.0	in	202.164	lb	31.66
+GTEX-131XG	64.0	Organ Donor (OPO)	2	55	3	0	64.0	in	145.5	lb	24.97
+GTEX-131XH	74.0	Postmortem	1	53	2	0	74.0	in	197.3	lb	25.33
+GTEX-131XW	67.0	Postmortem	2	51	3	99	67.0	in	171.0	lb	26.78
+GTEX-131YS	69.0	Postmortem	2	67	3	99	69.0	in	145.0	lb	21.41
+GTEX-132NY	66.0	Postmortem	1	60	3	99	66.0	in	130.0	lb	20.98
+GTEX-132Q8	72.0	Postmortem	1	68	3	99	72.0	in	188.0	lb	25.49
+GTEX-132QS	65.0	Organ Donor (OPO)	1	67	4	0	65.0	in	147.71	lb	24.58
+GTEX-133LE	69.0	Postmortem	2	26	3	99	69.0	in	225.4	lb	33.28
+GTEX-1399Q	68.1	Postmortem	1	46	3	99	68.1	in	165.0	lb	25.01
+GTEX-139D8	65.0	Postmortem	2	34	3	99	65.0	in	167.0	lb	27.79
+GTEX-139TT	66.0	Postmortem	1	60	99	99	66.0	in	170.0	lb	27.44
+GTEX-139UW	77.0	Postmortem	1	62	3	0	77.0	in	218.0	lb	25.85
+GTEX-139YR	74.0	Organ Donor (OPO)	1	53	3	0	74.0	in	154.0	lb	19.77
+GTEX-13CF2	72.0	Postmortem	1	61	3	0	72.0	in	180.0	lb	24.41
+GTEX-13CF3	63.0	Organ Donor (OPO)	2	62	3	0	63.0	in	145.5	lb	25.77
+GTEX-13CIG	72.0	Postmortem	1	59	3	0	72.0	in	209.0	lb	28.34
+GTEX-13CZU	71.0	Organ Donor (OPO)	1	21	3	0	71.0	in	176.0	lb	24.54
+GTEX-13CZV	72.0	Postmortem	1	64	3	0	72.0	in	210.0	lb	28.48
+GTEX-13D11	62.0	Organ Donor (OPO)	2	58	3	0	62.0	in	158.7	lb	29.02
+GTEX-13FH7	64.0	Organ Donor (OPO)	2	55	3	0	64.0	in	158.7	lb	27.24
+GTEX-13FHO	71.0	Postmortem	1	61	3	99	71.0	in	249.0	lb	34.72
+GTEX-13FHP	74.0	Postmortem	1	56	2	99	74.0	in	233.0	lb	29.91
+GTEX-13FLV	70.0	Postmortem	1	50	3	0	70.0	in	134.4	lb	19.28
+GTEX-13FLW	71.0	Postmortem	1	57	2	0	71.0	in	230.0	lb	32.07
+GTEX-13FTW	69.0	Organ Donor (OPO)	1	44	3	0	69.0	in	176.37	lb	26.04
+GTEX-13FTX	60.0	Organ Donor (OPO)	2	28	3	0	60.0	in	179.2	lb	34.99
+GTEX-13FTY	66.0	Postmortem	2	49	3	0	66.0	in	160.0	lb	25.82
+GTEX-13FTZ	69.0	Postmortem	1	67	3	0	69.0	in	220.0	lb	32.48
+GTEX-13FXS	69.0	Postmortem	1	59	2	0	69.0	in	150.0	lb	22.15
+GTEX-13G51	71.0	Postmortem	1	69	3	0	71.0	in	180.0	lb	25.1
+GTEX-13IVO	73.0	Postmortem	1	70	3	99	73.0	in	202.0	lb	26.65
+GTEX-13JUV	62.0	Postmortem	2	46	2	0	62.0	in	147.0	lb	26.88
+GTEX-13JVG	72.0	Postmortem	1	64	3	0	72.0	in	250.0	lb	33.9
+GTEX-13N11	66.0	Organ Donor (OPO)	2	50	2	0	66.0	in	185.0	lb	29.86
+GTEX-13N2G	69.0	Postmortem	1	60	3	0	69.0	in	179.8	lb	26.55
+GTEX-13NYB	76.0	Postmortem	1	49	2	0	76.0	in	217.0	lb	26.41
+GTEX-13NYC	70.0	Postmortem	1	67	3	0	70.0	in	190.0	lb	27.26
+GTEX-13NYS	69.0	Postmortem	1	63	3	0	69.0	in	150.0	lb	22.15
+GTEX-13NZ8	64.0	Postmortem	2	69	3	99	64.0	in	150.0	lb	25.74
+GTEX-13NZ9	66.0	Postmortem	1	54	1	99	66.0	in	139.0	lb	22.43
+GTEX-13NZA	74.0	Postmortem	1	64	3	0	74.0	in	226.0	lb	29.01
+GTEX-13NZB	71.0	Organ Donor (OPO)	1	35	3	0	71.0	in	181.0	lb	25.24
+GTEX-13O1R	67.0	Postmortem	1	68	3	0	67.0	in	210.0	lb	32.89
+GTEX-13O21	71.0	Organ Donor (OPO)	1	59	3	0	71.0	in	243.6	lb	33.97
+GTEX-13O3O	62.0	Postmortem	2	68	3	99	62.0	in	172.0	lb	31.46
+GTEX-13O3P	72.0	Postmortem	1	59	3	99	72.0	in	208.0	lb	28.21
+GTEX-13O3Q	71.0	Postmortem	1	53	3	0	71.0	in	250.0	lb	34.86
+GTEX-13O61	72.0	Organ Donor (OPO)	1	68	99	1	72.0	in	233.0	lb	31.6
+GTEX-13OVG	70.8	Organ Donor (OPO)	1	62	3	0	70.8	in	213.8	lb	29.98
+GTEX-13OVH	72.0	Postmortem	1	70	3	99	72.0	in	189.2	lb	25.66
+GTEX-13OVI	66.0	Organ Donor (OPO)	2	66	2	0	66.0	in	130.0	lb	20.98
+GTEX-13OVJ	64.0	Postmortem	2	55	3	0	64.0	in	176.0	lb	30.21
+GTEX-13OVK	70.0	Organ Donor (OPO)	1	40	3	0	70.0	in	205.0	lb	29.41
+GTEX-13OVL	73.0	Postmortem	1	50	3	0	73.0	in	210.0	lb	27.7
+GTEX-13OW5	76.0	Postmortem	1	62	3	0	76.0	in	216.0	lb	26.29
+GTEX-13OW6	68.0	Postmortem	1	59	3	99	68.0	in	150.0	lb	22.8
+GTEX-13OW7	70.0	Postmortem	1	53	3	99	70.0	in	190.0	lb	27.26
+GTEX-13OW8	72.0	Postmortem	1	66	3	0	72.0	in	200.0	lb	27.12
+GTEX-13PL6	62.0	Postmortem	2	44	3	99	62.0	in	116.0	lb	21.21
+GTEX-13PL7	62.0	Organ Donor (OPO)	2	62	3	0	62.0	in	160.9	lb	29.43
+GTEX-13PLJ	68.0	Postmortem	2	60	3	0	68.0	in	160.0	lb	24.33
+GTEX-13PVQ	68.0	Postmortem	1	59	3	99	68.0	in	175.0	lb	26.61
+GTEX-13PVR	63.0	Organ Donor (OPO)	2	68	3	0	63.0	in	164.2	lb	29.08
+GTEX-13QBU	67.0	Organ Donor (OPO)	2	40	3	0	67.0	in	190.0	lb	29.75
+GTEX-13QIC	65.0	Postmortem	2	65	3	0	65.0	in	180.0	lb	29.95
+GTEX-13QJ3	74.0	Postmortem	1	59	3	99	74.0	in	182.0	lb	23.36
+GTEX-13QJC	66.0	Postmortem	2	68	3	0	66.0	in	169.8	lb	27.4
+GTEX-13RTJ	67.0	Postmortem	1	60	3	0	67.0	in	119.0	lb	18.64
+GTEX-13RTK	72.0	Organ Donor (OPO)	1	29	3	0	72.0	in	172.0	lb	23.32
+GTEX-13S7M	68.0	Postmortem	2	66	3	99	68.0	in	190.0	lb	28.89
+GTEX-13S86	66.0	Organ Donor (OPO)	1	44	3	0	66.0	in	189.0	lb	30.5
+GTEX-13SLW	66.0	Postmortem	1	70	3	0	66.0	in	179.0	lb	28.89
+GTEX-13SLX	64.0	Postmortem	2	57	2	0	64.0	in	150.0	lb	25.74
+GTEX-13U4I	61.0	Postmortem	2	47	3	99	61.0	in	155.1	lb	29.3
+GTEX-13VXT	65.0	Organ Donor (OPO)	2	24	2	0	65.0	in	145.0	lb	24.13
+GTEX-13VXU	70.0	Postmortem	1	58	3	0	70.0	in	180.0	lb	25.82
+GTEX-13W3W	66.0	Organ Donor (OPO)	2	65	3	0	66.0	in	148.0	lb	23.89
+GTEX-13W46	67.0	Postmortem	1	57	3	99	67.0	in	222.0	lb	34.77
+GTEX-13X6H	65.0	Organ Donor (OPO)	2	55	3	0	65.0	in	187.0	lb	31.12
+GTEX-13X6I	70.0	Postmortem	1	65	3	99	70.0	in	153.0	lb	21.95
+GTEX-13X6J	71.0	Postmortem	1	56	3	99	71.0	in	236.0	lb	32.91
+GTEX-13X6K	64.0	Postmortem	2	61	3	99	64.0	in	130.0	lb	22.31
+GTEX-145MF	68.0	Postmortem	1	50	3	0	68.0	in	130.0	lb	19.76
+GTEX-145MG	72.0	Postmortem	1	55	2	0	72.0	in	200.0	lb	27.12
+GTEX-145MH	74.0	Postmortem	1	57	3	99	74.0	in	260.0	lb	33.38
+GTEX-145MI	60.0	Postmortem	2	68	3	0	60.0	in	133.0	lb	25.97
+GTEX-145MN	74.0	Organ Donor (OPO)	1	34	2	0	74.0	in	267.0	lb	34.28
+GTEX-145MO	64.0	Postmortem	1	64	3	99	64.0	in	145.0	lb	24.89
+GTEX-146FH	65.0	Postmortem	2	55	3	99	65.0	in	166.0	lb	27.62
+GTEX-146FQ	58.0	Organ Donor (OPO)	1	37	3	0	58.0	in	154.0	lb	32.18
+GTEX-146FR	62.0	Organ Donor (OPO)	2	68	3	0	62.0	in	153.0	lb	27.98
+GTEX-14753	73.0	Postmortem	1	67	3	0	73.0	in	239.0	lb	31.53
+GTEX-1477Z	72.0	Postmortem	1	65	3	0	72.0	in	247.0	lb	33.5
+GTEX-147F3	65.0	Organ Donor (OPO)	2	55	3	0	65.0	in	141.0	lb	23.46
+GTEX-147F4	71.0	Postmortem	1	50	3	0	71.0	in	220.0	lb	30.68
+GTEX-147GR	68.0	Postmortem	1	65	3	0	68.0	in	200.0	lb	30.41
+GTEX-147JS	72.0	Postmortem	1	69	3	99	72.0	in	200.0	lb	27.12
+GTEX-148VI	64.0	Organ Donor (OPO)	2	61	3	0	64.0	in	165.5	lb	28.4
+GTEX-148VJ	74.0	Postmortem	1	70	3	0	74.0	in	207.0	lb	26.57
+GTEX-1497J	68.0	Organ Donor (OPO)	1	63	2	0	68.0	in	216.0	lb	32.84
+GTEX-14A5H	68.0	Postmortem	1	69	3	0	68.0	in	190.0	lb	28.89
+GTEX-14A5I	61.0	Postmortem	2	53	3	99	61.0	in	138.0	lb	26.07
+GTEX-14A6H	74.0	Organ Donor (OPO)	1	31	3	0	74.0	in	238.0	lb	30.55
+GTEX-14ABY	72.0	Postmortem	1	59	3	0	72.0	in	200.0	lb	27.12
+GTEX-14AS3	67.0	Organ Donor (OPO)	2	48	1	0	67.0	in	171.0	lb	26.78
+GTEX-14ASI	73.0	Postmortem	1	61	2	99	73.0	in	225.0	lb	29.68
+GTEX-14B4R	72.0	Organ Donor (OPO)	1	38	3	0	72.0	in	200.0	lb	27.12
+GTEX-14BIL	70.0	Postmortem	1	54	3	0	70.0	in	220.0	lb	31.56
+GTEX-14BIM	66.0	Postmortem	2	64	3	0	66.0	in	157.0	lb	25.34
+GTEX-14BIN	65.0	Postmortem	2	56	3	0	65.0	in	160.0	lb	26.62
+GTEX-14BMU	63.0	Organ Donor (OPO)	2	27	3	0	63.0	in	141.0	lb	24.97
+GTEX-14BMV	64.0	Postmortem	1	53	3	99	64.0	in	160.0	lb	27.46
+GTEX-14C38	78.0	Organ Donor (OPO)	1	50	3	0	78.0	in	293.0	lb	33.86
+GTEX-14C39	74.0	Postmortem	1	46	3	0	74.0	in	238.0	lb	30.55
+GTEX-14C5O	71.0	Postmortem	1	65	3	99	71.0	in	234.0	lb	32.63
+GTEX-14DAQ	63.0	Postmortem	2	63	3	99	63.0	in	108.0	lb	19.13
+GTEX-14DAR	69.0	Organ Donor (OPO)	1	50	3	0	69.0	in	207.0	lb	30.57
+GTEX-14E1K	72.0	Organ Donor (OPO)	1	55	2	0	72.0	in	148.0	lb	20.07
+GTEX-14E6C	73.0	Postmortem	1	48	3	99	73.0	in	222.0	lb	29.29
+GTEX-14E6D	70.0	Postmortem	1	53	3	0	70.0	in	215.0	lb	30.85
+GTEX-14E6E	68.0	Organ Donor (OPO)	1	31	3	0	68.0	in	211.8	lb	32.2
+GTEX-14E7W	68.0	Postmortem	1	70	3	99	68.0	in	198.0	lb	30.1
+GTEX-14H4A	61.0	Organ Donor (OPO)	2	42	3	0	61.0	in	100.0	lb	18.89
+GTEX-14ICK	69.0	Organ Donor (OPO)	1	43	3	0	69.0	in	161.0	lb	23.77
+GTEX-14ICL	75.0	Organ Donor (OPO)	1	35	3	99	75.0	in	205.0	lb	25.62
+GTEX-14JG1	66.0	Postmortem	1	48	3	99	66.0	in	179.5	lb	28.97
+GTEX-14JG6	63.0	Organ Donor (OPO)	2	35	3	0	63.0	in	158.7	lb	28.11
+GTEX-14JIY	72.0	Postmortem	1	63	3	0	72.0	in	240.0	lb	32.55
+GTEX-14LLW	64.0	Postmortem	2	70	3	99	64.0	in	180.0	lb	30.89
+GTEX-14LZ3	64.0	Postmortem	2	69	3	99	64.0	in	193.0	lb	33.12
+GTEX-14PHW	64.0	Postmortem	2	62	3	99	64.0	in	129.0	lb	22.14
+GTEX-14PHX	64.9	Postmortem	1	58	3	99	64.9	in	132.44	lb	22.1
+GTEX-14PHY	63.0	Organ Donor (OPO)	2	67	2	0	63.0	in	150.0	lb	26.57
+GTEX-14PII	74.0	Postmortem	1	65	3	99	74.0	in	270.0	lb	34.66
+GTEX-14PJ2	66.9	Postmortem	1	57	3	99	66.9	in	197.0	lb	30.94
+GTEX-14PJ3	67.0	Organ Donor (OPO)	1	58	99	1	67.0	in	150.0	lb	23.49
+GTEX-14PJ4	69.0	Organ Donor (OPO)	1	65	3	0	69.0	in	196.0	lb	28.94
+GTEX-14PJ5	60.0	Organ Donor (OPO)	2	60	3	0	60.0	in	106.0	lb	20.7
+GTEX-14PJ6	62.0	Organ Donor (OPO)	2	69	3	0	62.0	in	159.0	lb	29.08
+GTEX-14PJM	61.0	Postmortem	2	59	3	99	61.0	in	129.0	lb	24.37
+GTEX-14PJN	73.0	Organ Donor (OPO)	1	36	3	0	73.0	in	230.0	lb	30.34
+GTEX-14PJO	65.0	Postmortem	1	68	3	99	65.0	in	116.0	lb	19.3
+GTEX-14PJP	67.0	Organ Donor (OPO)	1	25	3	0	67.0	in	154.0	lb	24.12
+GTEX-14PK6	66.0	Organ Donor (OPO)	2	70	3	0	66.0	in	183.0	lb	29.53
+GTEX-14PKU	63.0	Organ Donor (OPO)	2	44	3	0	63.0	in	152.0	lb	26.92
+GTEX-14PKV	64.0	Organ Donor (OPO)	2	24	3	0	64.0	in	170.1	lb	29.19
+GTEX-14PN3	63.0	Organ Donor (OPO)	2	65	3	0	63.0	in	141.0	lb	24.97
+GTEX-14PN4	73.0	Postmortem	1	56	3	0	73.0	in	180.0	lb	23.75
+GTEX-14PQA	63.0	Postmortem	2	59	3	0	63.0	in	164.0	lb	29.05
+GTEX-14XAO	64.0	Organ Donor (OPO)	2	67	3	0	64.0	in	175.0	lb	30.04
+GTEX-15CHC	65.0	Organ Donor (OPO)	2	67	3	0	65.0	in	210.1	lb	34.96
+GTEX-15CHQ	71.0	Postmortem	1	69	3	99	71.0	in	200.0	lb	27.89
+GTEX-15CHR	72.0	Organ Donor (OPO)	1	59	3	0	72.0	in	165.0	lb	22.38
+GTEX-15D1Q	71.0	Postmortem	1	47	3	99	71.0	in	233.0	lb	32.49
+GTEX-15D79	69.0	Postmortem	1	53	3	99	69.0	in	200.0	lb	29.53
+GTEX-15DCD	67.0	Postmortem	2	70	3	99	67.0	in	200.0	lb	31.32
+GTEX-15DCE	72.0	Organ Donor (OPO)	1	21	3	0	72.0	in	198.0	lb	26.85
+GTEX-15DDE	65.7	Postmortem	2	56	2	99	65.7	in	158.0	lb	25.73
+GTEX-15DYW	61.0	Postmortem	2	64	3	99	61.0	in	145.0	lb	27.39
+GTEX-15DZA	62.0	Organ Donor (OPO)	2	39	3	1	62.0	in	139.0	lb	25.42
+GTEX-15EO6	67.0	Postmortem	1	56	3	99	67.0	in	150.0	lb	23.49
+GTEX-15EOM	66.0	Organ Donor (OPO)	2	29	3	0	66.0	in	191.0	lb	30.82
+GTEX-15ER7	70.0	Postmortem	2	28	3	99	70.0	in	170.0	lb	24.39
+GTEX-15ETS	63.0	Organ Donor (OPO)	2	45	3	99	63.0	in	161.0	lb	28.52
+GTEX-15EU6	65.0	Organ Donor (OPO)	1	54	3	99	65.0	in	207.0	lb	34.44
+GTEX-15G19	72.0	Postmortem	1	68	3	99	72.0	in	220.0	lb	29.83
+GTEX-15G1A	69.0	Organ Donor (OPO)	1	38	3	0	69.0	in	181.0	lb	26.73
+GTEX-15RIE	71.0	Organ Donor (OPO)	1	61	3	0	71.0	in	200.0	lb	27.89
+GTEX-15RIF	71.0	Organ Donor (OPO)	1	26	3	0	71.0	in	198.0	lb	27.61
+GTEX-15RIG	69.0	Organ Donor (OPO)	1	45	3	0	69.0	in	234.0	lb	34.55
+GTEX-15RJ7	71.0	Organ Donor (OPO)	1	49	2	0	71.0	in	231.0	lb	32.21
+GTEX-15RJE	66.0	Postmortem	1	48	3	0	66.0	in	206.0	lb	33.25
+GTEX-15SB6	63.0	Organ Donor (OPO)	2	52	3	99	63.0	in	173.0	lb	30.64
+GTEX-15SDE	67.0	Organ Donor (OPO)	2	56	2	0	67.0	in	177.0	lb	27.72
+GTEX-15SHU	65.0	Postmortem	2	42	3	99	65.0	in	126.0	lb	20.97
+GTEX-15SHV	70.0	Organ Donor (OPO)	1	65	3	0	70.0	in	165.0	lb	23.67
+GTEX-15SHW	70.0	Postmortem	1	64	2	99	70.0	in	149.0	lb	21.38
+GTEX-15SKB	72.0	Postmortem	1	68	3	99	72.0	in	225.0	lb	30.51
+GTEX-15SZO	70.0	Postmortem	1	56	3	1	70.0	in	200.0	lb	28.69
+GTEX-15UF6	62.0	Postmortem	2	70	3	99	62.0	in	146.0	lb	26.7
+GTEX-15UF7	72.0	Organ Donor (OPO)	1	48	3	0	72.0	in	234.0	lb	31.73
+GTEX-15UKP	66.0	Organ Donor (OPO)	1	27	3	0	66.0	in	168.0	lb	27.11
+GTEX-169BO	74.0	Organ Donor (OPO)	1	56	3	0	74.0	in	220.0	lb	28.24
+GTEX-16A39	65.0	Organ Donor (OPO)	2	31	3	0	65.0	in	203.0	lb	33.78
+GTEX-16AAH	60.0	Organ Donor (OPO)	1	59	1	0	60.0	in	165.3	lb	32.28
+GTEX-16BQI	66.0	Organ Donor (OPO)	2	37	3	0	66.0	in	201.0	lb	32.44
+GTEX-16GPK	71.0	Postmortem	1	69	3	99	71.0	in	242.0	lb	33.75
+GTEX-16MT8	66.0	Postmortem	2	66	3	99	66.0	in	123.6	lb	19.95
+GTEX-16MT9	71.0	Postmortem	2	67	3	99	71.0	in	248.0	lb	34.59
+GTEX-16MTA	70.0	Organ Donor (OPO)	1	52	3	0	70.0	in	196.0	lb	28.12
+GTEX-16NGA	66.0	Organ Donor (OPO)	2	41	2	0	66.0	in	161.0	lb	25.98
+GTEX-16NPV	68.0	Postmortem	2	58	3	99	68.0	in	175.0	lb	26.61
+GTEX-16NPX	74.0	Postmortem	1	55	3	99	74.0	in	198.0	lb	25.42
+GTEX-16XZY	69.0	Organ Donor (OPO)	1	70	3	0	69.0	in	154.0	lb	22.74
+GTEX-16XZZ	72.0	Postmortem	1	63	3	99	72.0	in	169.0	lb	22.92
+GTEX-16YQH	75.0	Postmortem	1	30	3	99	75.0	in	264.0	lb	32.99
+GTEX-16Z82	68.8	Postmortem	1	66	3	99	68.8	in	173.8	lb	25.81
+GTEX-178AV	68.0	Organ Donor (OPO)	1	47	3	0	68.0	in	209.0	lb	31.77
+GTEX-17EUY	66.0	Organ Donor (OPO)	1	22	3	0	66.0	in	176.0	lb	28.4
+GTEX-17EVP	66.0	Postmortem	1	44	3	99	66.0	in	210.0	lb	33.89
+GTEX-17EVQ	70.0	Postmortem	1	70	3	99	70.0	in	175.0	lb	25.11
+GTEX-17F96	69.0	Postmortem	1	70	3	99	69.0	in	145.0	lb	21.41
+GTEX-17F97	67.0	Postmortem	1	57	3	99	67.0	in	174.0	lb	27.25
+GTEX-17F98	62.0	Organ Donor (OPO)	2	48	3	0	62.0	in	132.0	lb	24.14
+GTEX-17F9E	68.0	Organ Donor (OPO)	1	57	99	1	68.0	in	179.0	lb	27.21
+GTEX-17F9Y	66.0	Postmortem	2	70	3	99	66.0	in	171.0	lb	27.6
+GTEX-17GQL	72.0	Organ Donor (OPO)	1	66	3	99	72.0	in	170.0	lb	23.05
+GTEX-17HGU	71.6	Postmortem	1	59	3	99	71.6	in	242.0	lb	33.19
+GTEX-17HHE	70.0	Organ Donor (OPO)	1	50	3	0	70.0	in	228.0	lb	32.71
+GTEX-17HHY	71.0	Postmortem	1	59	3	99	71.0	in	240.0	lb	33.47
+GTEX-17HII	75.9	Postmortem	1	57	3	99	75.9	in	250.0	lb	30.51
+GTEX-17JCI	63.0	Postmortem	2	63	3	99	63.0	in	179.5	lb	31.79
+GTEX-17KNJ	63.0	Organ Donor (OPO)	1	59	3	0	63.0	in	162.0	lb	28.69
+GTEX-17MF6	72.0	Postmortem	1	48	3	99	72.0	in	160.0	lb	21.7
+GTEX-17MFQ	72.0	Organ Donor (OPO)	1	29	3	0	72.0	in	225.0	lb	30.51
+GTEX-183FY	69.0	Organ Donor (OPO)	1	21	3	0	69.0	in	190.0	lb	28.06
+GTEX-183WM	64.0	Postmortem	2	70	3	99	64.0	in	144.0	lb	24.71
+GTEX-18A7A	65.0	Postmortem	2	54	3	99	65.0	in	135.0	lb	22.46
+GTEX-1A32A	64.0	Postmortem	2	55	3	99	64.0	in	163.0	lb	27.98
+GTEX-1A3MV	67.0	Organ Donor (OPO)	1	32	3	0	67.0	in	183.0	lb	28.66
+GTEX-1A3MW	66.0	Postmortem	2	61	3	99	66.0	in	156.0	lb	25.18
+GTEX-1A3MX	71.0	Postmortem	1	66	3	99	71.0	in	168.0	lb	23.43
+GTEX-1A8FM	65.0	Postmortem	2	59	3	0	65.0	in	125.66	lb	20.91
+GTEX-1A8G6	63.0	Postmortem	1	65	3	99	63.0	in	159.8	lb	28.3
+GTEX-1A8G7	70.0	Postmortem	1	69	3	99	70.0	in	185.0	lb	26.54
+GTEX-1AMEY	62.0	Organ Donor (OPO)	2	33	3	0	62.0	in	167.5	lb	30.63
+GTEX-1AMFI	61.0	Organ Donor (OPO)	2	51	3	0	61.0	in	156.5	lb	29.57
+GTEX-1AX8Z	70.0	Organ Donor (OPO)	1	60	3	99	70.0	in	162.0	lb	23.24
+GTEX-1AX9I	70.0	Postmortem	1	68	3	99	70.0	in	190.0	lb	27.26
+GTEX-1AX9J	72.0	Organ Donor (OPO)	1	66	3	0	72.0	in	213.8	lb	28.99
+GTEX-1AX9K	72.0	Organ Donor (OPO)	1	52	3	0	72.0	in	236.0	lb	32.0
+GTEX-1AYCT	70.0	Organ Donor (OPO)	1	57	3	99	70.0	in	197.0	lb	28.26
+GTEX-1AYD5	66.0	Organ Donor (OPO)	1	58	2	99	66.0	in	214.0	lb	34.54
+GTEX-1B8KE	69.0	Organ Donor (OPO)	1	50	3	0	69.0	in	213.84	lb	31.58
+GTEX-1B8KZ	71.0	Organ Donor (OPO)	1	52	3	99	71.0	in	187.6	lb	26.16
+GTEX-1B8L1	72.0	Postmortem	1	64	3	99	72.0	in	180.0	lb	24.41
+GTEX-1B8SF	72.0	Postmortem	1	61	3	0	72.0	in	215.0	lb	29.16
+GTEX-1B8SG	70.0	Postmortem	1	50	3	98	70.0	in	213.0	lb	30.56
+GTEX-1B932	64.0	Organ Donor (OPO)	2	49	3	0	64.0	in	138.7	lb	23.81
+GTEX-1B933	65.0	Postmortem	2	59	3	99	65.0	in	145.0	lb	24.13
+GTEX-1B97I	72.0	Organ Donor (OPO)	1	47	3	99	72.0	in	240.0	lb	32.55
+GTEX-1B97J	61.0	Organ Donor (OPO)	2	50	3	99	61.0	in	168.0	lb	31.74
+GTEX-1B996	72.0	Postmortem	1	69	3	0	72.0	in	209.43	lb	28.4
+GTEX-1BAJH	73.0	Postmortem	1	70	3	99	73.0	in	150.0	lb	19.79
+GTEX-1C2JI	71.0	Organ Donor (OPO)	1	58	3	99	71.0	in	170.0	lb	23.71
+GTEX-1C475	66.0	Organ Donor (OPO)	2	45	3	0	66.0	in	170.0	lb	27.44
+GTEX-1C4CL	69.0	Organ Donor (OPO)	1	38	3	98	69.0	in	198.88	lb	29.37
+GTEX-1C64N	70.0	Postmortem	1	54	3	99	70.0	in	230.0	lb	33.0
+GTEX-1C6VR	65.0	Postmortem	1	65	3	99	65.0	in	145.0	lb	24.13
+GTEX-1C6WA	65.0	Postmortem	1	61	3	99	65.0	in	200.0	lb	33.28
+GTEX-1CAMQ	70.0	Postmortem	1	48	3	99	70.0	in	200.0	lb	28.69
+GTEX-1CAMR	68.0	Organ Donor (OPO)	1	23	3	98	68.0	in	143.3	lb	21.79
+GTEX-1CAMS	62.0	Organ Donor (OPO)	2	40	1	0	62.0	in	132.3	lb	24.2
+GTEX-1CB4H	64.96	Postmortem	2	61	3	99	64.96	in	143.66	lb	23.93
+GTEX-1CB4J	69.0	Postmortem	1	64	3	98	69.0	in	209.0	lb	30.86
+GTEX-1E1VI	72.0	Postmortem	1	57	3	99	72.0	in	200.0	lb	27.12
+GTEX-1EH9U	66.0	Postmortem	1	69	3	1	66.0	in	149.9	lb	24.19
+GTEX-1EU9M	69.0	Postmortem	1	68	3	99	69.0	in	160.0	lb	23.63
+GTEX-1EWIQ	65.0	Postmortem	2	70	3	99	65.0	in	189.0	lb	31.45
+GTEX-1EX96	68.0	Postmortem	1	58	3	99	68.0	in	213.84	lb	32.51
+GTEX-1F48J	60.0	Postmortem	2	51	3	99	60.0	in	121.0	lb	23.63
+GTEX-1F52S	64.9	Postmortem	2	62	3	99	64.9	in	145.6	lb	24.3
+GTEX-1F5PK	68.9	Organ Donor (OPO)	1	54	3	99	68.9	in	129.8	lb	19.22
+GTEX-1F5PL	66.0	Organ Donor (OPO)	2	46	3	0	66.0	in	127.9	lb	20.64
+GTEX-1F6I4	71.0	Postmortem	1	60	2	99	71.0	in	200.0	lb	27.89
+GTEX-1F6IF	69.0	Postmortem	1	63	3	99	69.0	in	189.6	lb	28.0
+GTEX-1F6RS	63.0	Postmortem	2	63	3	99	63.0	in	169.0	lb	29.93
+GTEX-1F75A	72.0	Postmortem	1	54	3	99	72.0	in	236.0	lb	32.0
+GTEX-1F75B	70.0	Postmortem	1	57	3	99	70.0	in	141.0	lb	20.23
+GTEX-1F75W	71.0	Postmortem	1	66	3	99	71.0	in	230.0	lb	32.07
+GTEX-1F7RK	68.0	Postmortem	2	28	3	99	68.0	in	160.01	lb	24.33
+GTEX-1F88F	64.0	Postmortem	2	66	3	99	64.0	in	150.0	lb	25.74
+GTEX-1FIGZ	74.0	Organ Donor (OPO)	1	47	3	99	74.0	in	258.0	lb	33.12
+GTEX-1GF9U	66.0	Organ Donor (OPO)	2	45	3	99	66.0	in	178.0	lb	28.73
+GTEX-1GF9V	72.0	Postmortem	1	62	3	99	72.0	in	200.0	lb	27.12
+GTEX-1GF9W	68.0	Postmortem	1	63	3	99	68.0	in	176.0	lb	26.76
+GTEX-1GF9X	62.0	Organ Donor (OPO)	2	49	99	1	62.0	in	140.4	lb	25.68
+GTEX-1GL5R	60.0	Organ Donor (OPO)	1	59	3	0	60.0	in	136.2	lb	26.6
+GTEX-1GMR2	66.0	Organ Donor (OPO)	1	59	2	99	66.0	in	179.0	lb	28.89
+GTEX-1GMR3	71.0	Organ Donor (OPO)	1	40	3	0	71.0	in	174.16	lb	24.29
+GTEX-1GMR8	68.0	Postmortem	2	51	3	99	68.0	in	174.16	lb	26.48
+GTEX-1GMRU	72.0	Postmortem	1	59	3	99	72.0	in	200.2	lb	27.15
+GTEX-1GN1U	64.9	Postmortem	2	53	3	99	64.9	in	167.2	lb	27.91
+GTEX-1GN1V	73.0	Postmortem	1	63	3	99	73.0	in	224.87	lb	29.66
+GTEX-1GN1W	67.0	Organ Donor (OPO)	2	54	3	98	67.0	in	170.0	lb	26.62
+GTEX-1GN2E	69.0	Postmortem	1	68	3	99	69.0	in	230.0	lb	33.96
+GTEX-1GN73	68.0	Postmortem	1	66	3	99	68.0	in	187.0	lb	28.43
+GTEX-1GTWX	71.0	Postmortem	1	68	3	99	71.0	in	225.0	lb	31.38
+GTEX-1GZ2Q	71.0	Postmortem	1	41	3	1	71.0	in	156.0	lb	21.76
+GTEX-1GZ4H	67.0	Organ Donor (OPO)	2	50	2	99	67.0	in	128.0	lb	20.05
+GTEX-1GZHY	66.0	Postmortem	2	51	3	99	66.0	in	170.0	lb	27.44
+GTEX-N7MS	69.0	Postmortem	1	61	3	99	69.0	in	178.0	lb	26.28
+GTEX-N7MT	60.0	Postmortem	2	68	3	98	60.0	in	125.0	lb	24.41
+GTEX-NFK9	70.0	Postmortem	1	49	2	98	70.0	in	189.0	lb	27.12
+GTEX-NL3G	66.0	Postmortem	2	67	3	99	66.0	in	250.0	lb	40.35
+GTEX-NL3H	74.0	Postmortem	1	60	2	99	74.0	in	253.0	lb	32.48
+GTEX-NL4W	71.0	Postmortem	1	53	3	98	71.0	in	210.0	lb	29.29
+GTEX-NPJ7	63.0	Postmortem	2	68	3	98	63.0	in	165.0	lb	29.23
+GTEX-NPJ8	71.0	Postmortem	1	40	3	98	71.0	in	200.0	lb	27.89
+GTEX-O5YT	64.0	Organ Donor (OPO)	1	21	3	0	64.0	in	128.0	lb	21.97
+GTEX-O5YV	64.0	Postmortem	2	67	3	99	64.0	in	149.0	lb	25.57
+GTEX-O5YW	70.0	Organ Donor (OPO)	1	54	3	0	70.0	in	202.0	lb	28.98
+GTEX-OHPK	63.0	Organ Donor (OPO)	2	51	2	0	63.0	in	170.0	lb	30.11
+GTEX-OHPM	69.0	Organ Donor (OPO)	1	54	3	0	69.0	in	229.0	lb	33.81
+GTEX-OHPN	67.0	Postmortem	2	61	3	99	67.0	in	187.0	lb	29.29
+GTEX-OIZF	68.0	Organ Donor (OPO)	1	61	3	0	68.0	in	187.0	lb	28.43
+GTEX-OIZG	69.0	Postmortem	1	59	3	98	69.0	in	235.0	lb	34.7
+GTEX-OIZH	74.0	Organ Donor (OPO)	1	58	3	0	74.0	in	200.0	lb	25.68
+GTEX-OIZI	72.0	Postmortem	1	47	3	99	72.0	in	154.0	lb	20.88
+GTEX-OOBK	72.0	Organ Donor (OPO)	1	48	3	0	72.0	in	211.0	lb	28.61
+GTEX-OXRK	63.0	Postmortem	2	51	3	98	63.0	in	200.0	lb	35.42
+GTEX-OXRL	63.0	Organ Donor (OPO)	1	52	3	0	63.0	in	187.0	lb	33.12
+GTEX-OXRN	74.0	Postmortem	1	59	3	98	74.0	in	273.0	lb	35.05
+GTEX-OXRO	63.0	Postmortem	2	62	3	98	63.0	in	125.0	lb	22.14
+GTEX-OXRP	61.0	Postmortem	2	65	3	98	61.0	in	150.0	lb	28.34
+GTEX-P44H	70.0	Postmortem	1	43	3	98	70.0	in	247.0	lb	35.44
+GTEX-P4PP	57.0	Organ Donor (OPO)	2	33	3	0	57.0	in	97.0	lb	20.99
+GTEX-P4PQ	68.0	Organ Donor (OPO)	1	60	3	0	68.0	in	160.0	lb	24.33
+GTEX-P4QS	73.0	Organ Donor (OPO)	1	68	2	0	73.0	in	224.0	lb	29.55
+GTEX-P4QT	68.0	Organ Donor (OPO)	2	50	3	0	68.0	in	209.0	lb	31.77
+GTEX-P78B	67.0	Postmortem	2	48	3	99	67.0	in	178.0	lb	27.88
+GTEX-PLZ4	60.0	Postmortem	2	56	3	98	60.0	in	127.0	lb	24.8
+GTEX-PLZ5	71.0	Organ Donor (OPO)	1	50	3	0	71.0	in	180.0	lb	25.1
+GTEX-PLZ6	74.0	Organ Donor (OPO)	1	36	3	0	74.0	in	172.0	lb	22.08
+GTEX-POMQ	68.0	Organ Donor (OPO)	2	23	2	0	68.0	in	169.0	lb	25.69
+GTEX-POYW	69.0	Postmortem	1	62	3	99	69.0	in	148.5	lb	21.93
+GTEX-PSDG	72.0	Postmortem	1	50	3	98	72.0	in	196.0	lb	26.58
+GTEX-PVOW	68.0	Postmortem	1	40	3	98	68.0	in	190.0	lb	28.89
+GTEX-PW2O	71.0	Organ Donor (OPO)	1	23	3	0	71.0	in	212.0	lb	29.56
+GTEX-PWCY	64.0	Organ Donor (OPO)	2	22	3	0	64.0	in	154.0	lb	26.43
+GTEX-PWN1	62.5	Organ Donor (OPO)	2	48	3	0	62.5	in	165.0	lb	29.69
+GTEX-PWO3	65.0	Postmortem	2	69	3	99	65.0	in	125.0	lb	20.8
+GTEX-PX3G	66.0	Organ Donor (OPO)	2	27	3	0	66.0	in	163.0	lb	26.31
+GTEX-Q2AG	70.0	Postmortem	2	42	3	98	70.0	in	225.0	lb	32.28
+GTEX-Q2AH	66.0	Organ Donor (OPO)	1	40	2	0	66.0	in	204.0	lb	32.92
+GTEX-Q2AI	75.0	Organ Donor (OPO)	1	44	3	0	75.0	in	230.0	lb	28.74
+GTEX-Q734	65.0	Organ Donor (OPO)	2	44	3	0	65.0	in	119.0	lb	19.8
+GTEX-QCQG	64.0	Organ Donor (OPO)	2	57	3	0	64.0	in	141.5	lb	24.29
+GTEX-QDT8	62.0	Postmortem	2	30	3	98	62.0	in	115.0	lb	21.03
+GTEX-QDVJ	70.0	Postmortem	1	51	3	98	70.0	in	211.0	lb	30.27
+GTEX-QDVN	72.0	Organ Donor (OPO)	1	56	3	0	72.0	in	209.0	lb	28.34
+GTEX-QEG4	71.0	Postmortem	1	39	3	99	71.0	in	174.0	lb	24.27
+GTEX-QEG5	70.0	Postmortem	1	28	3	99	70.0	in	159.0	lb	22.81
+GTEX-QESD	70.0	Organ Donor (OPO)	1	26	3	0	70.0	in	154.0	lb	22.09
+GTEX-QLQ7	66.0	Organ Donor (OPO)	1	64	1	0	66.0	in	143.0	lb	23.08
+GTEX-QLQW	71.0	Organ Donor (OPO)	1	38	2	0	71.0	in	198.0	lb	27.61
+GTEX-QMR6	72.0	Postmortem	1	59	3	98	72.0	in	215.0	lb	29.16
+GTEX-QMRM	74.0	Organ Donor (OPO)	1	53	3	0	74.0	in	174.0	lb	22.34
+GTEX-QV31	69.0	Organ Donor (OPO)	1	32	3	0	69.0	in	158.2	lb	23.36
+GTEX-QV44	73.0	Organ Donor (OPO)	1	54	3	0	73.0	in	207.0	lb	27.31
+GTEX-QVJO	67.0	Postmortem	2	64	3	0	67.0	in	123.0	lb	19.26
+GTEX-QVUS	65.0	Postmortem	2	69	3	0	65.0	in	155.0	lb	25.79
+GTEX-QXCU	72.0	Postmortem	1	58	3	99	72.0	in	220.0	lb	29.83
+GTEX-R3RS	61.0	Postmortem	2	48	3	99	61.0	in	108.0	lb	20.4
+GTEX-R53T	68.0	Organ Donor (OPO)	2	54	3	0	68.0	in	176.88	lb	26.89
+GTEX-R55C	73.0	Organ Donor (OPO)	1	47	3	0	73.0	in	238.0	lb	31.4
+GTEX-R55D	64.0	Postmortem	1	58	3	1	64.0	in	122.0	lb	20.94
+GTEX-R55E	69.0	Postmortem	1	22	3	99	69.0	in	145.0	lb	21.41
+GTEX-R55G	64.0	Organ Donor (OPO)	2	43	3	0	64.0	in	152.0	lb	26.09
+GTEX-REY6	64.0	Postmortem	1	62	3	99	64.0	in	166.0	lb	28.49
+GTEX-RM2N	69.0	Organ Donor (OPO)	1	55	3	0	69.0	in	220.0	lb	32.48
+GTEX-RN64	70.0	Postmortem	1	52	3	99	70.0	in	193.0	lb	27.69
+GTEX-RNOR	61.0	Postmortem	2	52	3	99	61.0	in	140.0	lb	26.45
+GTEX-RTLS	67.0	Postmortem	2	62	3	99	67.0	in	140.0	lb	21.92
+GTEX-RU1J	64.0	Organ Donor (OPO)	2	21	2	0	64.0	in	143.0	lb	24.54
+GTEX-RU72	64.0	Postmortem	2	59	1	99	64.0	in	139.0	lb	23.86
+GTEX-RUSQ	77.0	Organ Donor (OPO)	1	59	3	0	77.0	in	252.0	lb	29.88
+GTEX-RVPV	69.0	Postmortem	1	67	3	0	69.0	in	230.0	lb	33.96
+GTEX-RWS6	67.0	Organ Donor (OPO)	2	69	3	0	67.0	in	185.0	lb	28.97
+GTEX-RWSA	73.0	Postmortem	1	42	3	99	73.0	in	185.0	lb	24.41
+GTEX-S32W	65.0	Organ Donor (OPO)	2	58	3	0	65.0	in	147.0	lb	24.46
+GTEX-S33H	72.0	Postmortem	1	39	3	99	72.0	in	200.0	lb	27.12
+GTEX-S341	66.0	Organ Donor (OPO)	2	48	2	0	66.0	in	166.0	lb	26.79
+GTEX-S3XE	71.0	Organ Donor (OPO)	1	51	3	0	71.0	in	139.0	lb	19.38
+GTEX-S4P3	64.0	Organ Donor (OPO)	2	51	3	0	64.0	in	194.0	lb	33.3
+GTEX-S4Q7	66.0	Organ Donor (OPO)	1	22	3	0	66.0	in	176.0	lb	28.4
+GTEX-S4UY	69.0	Postmortem	2	41	3	99	69.0	in	125.0	lb	18.46
+GTEX-S4Z8	71.0	Organ Donor (OPO)	1	63	3	0	71.0	in	238.0	lb	33.19
+GTEX-S7PM	70.0	Postmortem	1	65	4	99	70.0	in	217.8	lb	31.25
+GTEX-S7SE	71.0	Postmortem	1	58	3	99	71.0	in	190.0	lb	26.5
+GTEX-S7SF	57.0	Organ Donor (OPO)	2	22	3	0	57.0	in	90.0	lb	19.47
+GTEX-S95S	70.0	Organ Donor (OPO)	1	60	3	0	70.0	in	177.0	lb	25.39
+GTEX-SE5C	64.0	Organ Donor (OPO)	2	45	3	0	64.0	in	153.0	lb	26.26
+GTEX-SIU8	69.0	Postmortem	1	55	3	99	69.0	in	180.0	lb	26.58
+GTEX-SJXC	67.0	Postmortem	1	64	3	99	67.0	in	177.0	lb	27.72
+GTEX-SN8G	71.0	Postmortem	2	52	3	99	71.0	in	240.0	lb	33.47
+GTEX-SNOS	68.0	Organ Donor (OPO)	1	49	2	0	68.0	in	209.0	lb	31.77
+GTEX-SSA3	72.0	Surgical	1	61	2	0	72.0	in	208.0	lb	28.21
+GTEX-T2IS	67.0	Postmortem	2	24	3	99	67.0	in	166.0	lb	26.0
+GTEX-T2YK	70.0	Postmortem	1	51	2	99	70.0	in	185.0	lb	26.54
+GTEX-T5JC	70.0	Postmortem	1	27	3	99	70.0	in	181.0	lb	25.97
+GTEX-T5JW	66.0	Organ Donor (OPO)	2	27	3	0	66.0	in	147.0	lb	23.72
+GTEX-T6MN	69.0	Postmortem	1	51	3	99	69.0	in	198.0	lb	29.24
+GTEX-T6MO	71.0	Organ Donor (OPO)	2	40	3	0	71.0	in	191.0	lb	26.64
+GTEX-T8EM	73.0	Postmortem	1	48	3	99	73.0	in	237.0	lb	31.26
+GTEX-TKQ1	67.0	Organ Donor (OPO)	1	33	2	0	67.0	in	154.0	lb	24.12
+GTEX-TKQ2	71.0	Organ Donor (OPO)	1	50	3	0	71.0	in	213.0	lb	29.7
+GTEX-TML8	63.0	Organ Donor (OPO)	2	49	2	0	63.0	in	171.0	lb	30.29
+GTEX-TMMY	64.0	Postmortem	2	42	3	99	64.0	in	148.0	lb	25.4
+GTEX-TMZS	75.0	Surgical	1	63	3	0	75.0	in	210.0	lb	26.25
+GTEX-TSE9	64.0	Postmortem	2	60	3	99	64.0	in	165.0	lb	28.32
+GTEX-U3ZG	69.0	Surgical	1	51	3	0	69.0	in	156.0	lb	23.03
+GTEX-U3ZH	74.0	Organ Donor (OPO)	1	31	3	0	74.0	in	223.0	lb	28.63
+GTEX-U3ZM	76.0	Organ Donor (OPO)	1	41	3	0	76.0	in	286.0	lb	34.81
+GTEX-U3ZN	64.0	Organ Donor (OPO)	2	33	3	0	64.0	in	114.0	lb	19.57
+GTEX-U412	67.0	Postmortem	1	61	2	99	67.0	in	149.0	lb	23.33
+GTEX-U4B1	71.0	Organ Donor (OPO)	1	47	3	0	71.0	in	169.0	lb	23.57
+GTEX-U8T8	70.0	Postmortem	1	60	3	99	70.0	in	210.8	lb	30.24
+GTEX-U8XE	72.0	Postmortem	1	38	3	99	72.0	in	187.0	lb	25.36
+GTEX-UJHI	68.0	Organ Donor (OPO)	2	53	2	0	68.0	in	159.0	lb	24.17
+GTEX-UJMC	66.0	Organ Donor (OPO)	1	59	2	0	66.0	in	150.0	lb	24.21
+GTEX-UPJH	70.0	Postmortem	1	59	3	99	70.0	in	202.0	lb	28.98
+GTEX-UPK5	71.0	Postmortem	1	49	3	99	71.0	in	209.0	lb	29.15
+GTEX-UTHO	72.0	Postmortem	1	68	3	99	72.0	in	138.6	lb	18.8
+GTEX-V1D1	70.0	Organ Donor (OPO)	1	51	3	0	70.0	in	161.0	lb	23.1
+GTEX-V955	70.0	Organ Donor (OPO)	1	60	3	0	70.0	in	209.0	lb	29.99
+GTEX-VJWN	69.0	Postmortem	2	58	3	99	69.0	in	220.0	lb	32.48
+GTEX-VJYA	66.0	Organ Donor (OPO)	1	67	2	0	66.0	in	177.0	lb	28.57
+GTEX-VUSH	68.0	Surgical	1	36	2	0	68.0	in	160.0	lb	24.33
+GTEX-W5WG	65.0	Organ Donor (OPO)	2	59	3	0	65.0	in	194.0	lb	32.28
+GTEX-W5X1	65.0	Postmortem	2	48	2	0	65.0	in	150.0	lb	24.96
+GTEX-WCDI	72.0	Surgical	1	56	2	0	72.0	in	220.0	lb	29.83
+GTEX-WEY5	61.0	Organ Donor (OPO)	2	44	3	0	61.0	in	112.0	lb	21.16
+GTEX-WFG7	70.0	Organ Donor (OPO)	1	25	3	0	70.0	in	175.0	lb	25.11
+GTEX-WFG8	65.0	Organ Donor (OPO)	1	28	3	98	65.0	in	180.0	lb	29.95
+GTEX-WFJO	70.0	Organ Donor (OPO)	1	37	3	0	70.0	in	242.44	lb	34.78
+GTEX-WFON	74.0	Organ Donor (OPO)	1	43	3	98	74.0	in	235.0	lb	30.17
+GTEX-WH7G	75.0	Organ Donor (OPO)	1	49	3	0	75.0	in	198.0	lb	24.75
+GTEX-WHPG	72.0	Organ Donor (OPO)	1	50	3	0	72.0	in	198.0	lb	26.85
+GTEX-WHSB	70.0	Organ Donor (OPO)	1	50	3	0	70.0	in	192.0	lb	27.55
+GTEX-WHSE	71.0	Postmortem	1	20	3	99	71.0	in	167.0	lb	23.29
+GTEX-WHWD	67.0	Organ Donor (OPO)	1	54	3	0	67.0	in	145.0	lb	22.71
+GTEX-WI4N	67.0	Postmortem	2	49	3	99	67.0	in	200.0	lb	31.32
+GTEX-WK11	71.0	Postmortem	1	53	3	99	71.0	in	195.0	lb	27.19
+GTEX-WL46	71.0	Postmortem	1	53	3	99	71.0	in	205.0	lb	28.59
+GTEX-WOFL	72.0	Postmortem	1	61	3	99	72.0	in	188.7	lb	25.59
+GTEX-WOFM	67.0	Organ Donor (OPO)	1	24	3	0	67.0	in	161.48	lb	25.29
+GTEX-WQUQ	74.0	Postmortem	1	66	3	99	74.0	in	219.0	lb	28.11
+GTEX-WRHK	64.0	Organ Donor (OPO)	2	21	3	0	64.0	in	136.0	lb	23.34
+GTEX-WVLH	72.0	Postmortem	1	58	3	99	72.0	in	200.0	lb	27.12
+GTEX-WWYW	64.0	Postmortem	2	52	3	99	64.0	in	187.0	lb	32.09
+GTEX-WXYG	65.0	Organ Donor (OPO)	2	53	2	0	65.0	in	154.44	lb	25.7
+GTEX-WY7C	69.0	Organ Donor (OPO)	1	54	3	98	69.0	in	171.38	lb	25.31
+GTEX-WYBS	64.0	Postmortem	2	67	3	99	64.0	in	182.0	lb	31.24
+GTEX-WYJK	71.0	Postmortem	1	51	3	98	71.0	in	241.56	lb	33.69
+GTEX-WYVS	61.0	Organ Donor (OPO)	2	46	3	0	61.0	in	176.88	lb	33.42
+GTEX-WZTO	72.0	Postmortem	1	44	3	99	72.0	in	200.0	lb	27.12
+GTEX-X15G	63.0	Organ Donor (OPO)	2	55	3	0	63.0	in	157.08	lb	27.82
+GTEX-X261	72.0	Postmortem	1	56	3	0	72.0	in	195.0	lb	26.44
+GTEX-X3Y1	71.0	Organ Donor (OPO)	1	44	2	0	71.0	in	226.38	lb	31.57
+GTEX-X4EO	64.0	Postmortem	2	67	3	99	64.0	in	120.0	lb	20.6
+GTEX-X4EP	64.0	Postmortem	2	63	3	99	64.0	in	120.0	lb	20.6
+GTEX-X4LF	73.0	Organ Donor (OPO)	1	59	3	0	73.0	in	168.52	lb	22.23
+GTEX-X4XX	73.0	Postmortem	1	69	3	99	73.0	in	192.0	lb	25.33
+GTEX-X4XY	74.0	Postmortem	1	62	3	99	74.0	in	216.0	lb	27.73
+GTEX-X585	68.0	Postmortem	1	56	2	99	68.0	in	134.0	lb	20.37
+GTEX-X5EB	70.0	Organ Donor (OPO)	1	49	3	0	70.0	in	239.8	lb	34.4
+GTEX-X62O	72.0	Postmortem	1	54	3	99	72.0	in	185.0	lb	25.09
+GTEX-X8HC	65.7	Postmortem	2	53	3	99	65.7	in	128.0	lb	20.85
+GTEX-XAJ8	72.0	Organ Donor (OPO)	1	45	3	0	72.0	in	168.74	lb	22.88
+GTEX-XBEC	75.0	Postmortem	1	57	3	99	75.0	in	220.0	lb	27.5
+GTEX-XBED	64.0	Organ Donor (OPO)	1	60	3	0	64.0	in	156.2	lb	26.81
+GTEX-XBEW	68.0	Postmortem	1	47	3	99	68.0	in	196.9	lb	29.94
+GTEX-XGQ4	60.0	Organ Donor (OPO)	1	50	3	0	60.0	in	149.6	lb	29.21
+GTEX-XMD1	70.0	Postmortem	1	67	3	99	70.0	in	173.8	lb	24.93
+GTEX-XMD2	60.0	Postmortem	2	66	3	99	60.0	in	119.0	lb	23.24
+GTEX-XMD3	61.8	Postmortem	2	51	3	1	61.8	in	138.6	lb	25.51
+GTEX-XMK1	69.0	Organ Donor (OPO)	1	44	3	0	69.0	in	178.2	lb	26.31
+GTEX-XOT4	60.0	Postmortem	2	68	3	99	60.0	in	165.0	lb	32.22
+GTEX-XPT6	73.0	Organ Donor (OPO)	1	22	3	0	73.0	in	199.54	lb	26.32
+GTEX-XPVG	68.0	Organ Donor (OPO)	1	59	3	0	68.0	in	224.4	lb	34.12
+GTEX-XQ3S	74.0	Postmortem	1	26	3	99	74.0	in	165.0	lb	21.18
+GTEX-XQ8I	67.0	Postmortem	1	54	3	99	67.0	in	193.6	lb	30.32
+GTEX-XUW1	65.0	Postmortem	2	56	3	99	65.0	in	192.0	lb	31.95
+GTEX-XUZC	66.0	Organ Donor (OPO)	2	31	3	0	66.0	in	187.0	lb	30.18
+GTEX-XV7Q	66.0	Organ Donor (OPO)	2	49	3	0	66.0	in	156.2	lb	25.21
+GTEX-XXEK	70.0	Organ Donor (OPO)	1	53	3	0	70.0	in	154.44	lb	22.16
+GTEX-XYKS	59.0	Organ Donor (OPO)	2	65	2	0	59.0	in	114.62	lb	23.15
+GTEX-Y111	69.0	Postmortem	1	50	3	0	69.0	in	160.0	lb	23.63
+GTEX-Y114	65.0	Organ Donor (OPO)	2	50	2	0	65.0	in	146.74	lb	24.42
+GTEX-Y3I4	69.0	Organ Donor (OPO)	1	59	3	0	69.0	in	210.32	lb	31.06
+GTEX-Y3IK	65.0	Organ Donor (OPO)	2	57	2	0	65.0	in	195.8	lb	32.58
+GTEX-Y5LM	66.0	Organ Donor (OPO)	2	42	3	0	66.0	in	140.8	lb	22.72
+GTEX-Y5V5	60.0	Organ Donor (OPO)	2	61	3	0	60.0	in	138.6	lb	27.07
+GTEX-Y5V6	74.0	Organ Donor (OPO)	1	65	3	0	74.0	in	231.0	lb	29.66
+GTEX-Y8DK	68.0	Postmortem	1	62	3	0	68.0	in	180.0	lb	27.37
+GTEX-Y8E4	74.0	Postmortem	1	46	3	99	74.0	in	173.8	lb	22.31
+GTEX-Y8LW	60.0	Organ Donor (OPO)	2	53	3	0	60.0	in	110.0	lb	21.48
+GTEX-Y9LG	65.0	Organ Donor (OPO)	1	32	3	0	65.0	in	182.6	lb	30.38
+GTEX-YEC3	69.0	Organ Donor (OPO)	1	56	3	0	69.0	in	213.85	lb	31.58
+GTEX-YEC4	70.0	Organ Donor (OPO)	1	40	3	0	70.0	in	207.01	lb	29.7
+GTEX-YECK	69.0	Postmortem	1	66	3	99	69.0	in	188.0	lb	27.76
+GTEX-YF7O	73.0	Organ Donor (OPO)	1	53	3	0	73.0	in	220.0	lb	29.02
+GTEX-YFC4	64.0	Postmortem	2	47	3	99	64.0	in	129.0	lb	22.14
+GTEX-YFCO	72.0	Organ Donor (OPO)	1	49	3	1	72.0	in	257.941	lb	34.98
+GTEX-YJ89	68.0	Postmortem	1	60	3	99	68.0	in	125.0	lb	19.0
+GTEX-YJ8A	69.0	Organ Donor (OPO)	1	23	3	0	69.0	in	140.0	lb	20.67
+GTEX-Z93S	71.0	Postmortem	1	52	3	99	71.0	in	160.0	lb	22.31
+GTEX-Z9EW	72.0	Organ Donor (OPO)	1	47	3	0	72.0	in	222.0	lb	30.11
+GTEX-ZA64	72.0	Organ Donor (OPO)	1	26	3	0	72.0	in	174.0	lb	23.6
+GTEX-ZAB4	69.69	Postmortem	1	47	3	99	69.69	in	162.8	lb	23.57
+GTEX-ZAB5	66.0	Organ Donor (OPO)	1	52	3	0	66.0	in	206.0	lb	33.25
+GTEX-ZAJG	62.0	Postmortem	2	58	2	99	62.0	in	134.2	lb	24.54
+GTEX-ZC5H	72.0	Organ Donor (OPO)	2	41	3	0	72.0	in	178.0	lb	24.14
+GTEX-ZDTS	61.0	Postmortem	1	66	3	99	61.0	in	122.7	lb	23.18
+GTEX-ZDTT	71.0	Organ Donor (OPO)	1	62	3	0	71.0	in	205.0	lb	28.59
+GTEX-ZDXO	68.0	Postmortem	1	60	3	0	68.0	in	145.0	lb	22.04
+GTEX-ZDYS	71.0	Postmortem	1	53	3	99	71.0	in	171.6	lb	23.93
+GTEX-ZE7O	67.0	Postmortem	2	57	3	0	67.0	in	190.0	lb	29.75
+GTEX-ZEX8	70.0	Organ Donor (OPO)	1	54	3	0	70.0	in	220.0	lb	31.56
+GTEX-ZF28	75.0	Postmortem	1	69	3	99	75.0	in	222.2	lb	27.77
+GTEX-ZF29	61.0	Organ Donor (OPO)	2	66	3	0	61.0	in	137.0	lb	25.88
+GTEX-ZF2S	66.0	Organ Donor (OPO)	2	53	3	0	66.0	in	183.0	lb	29.53
+GTEX-ZF3C	65.0	Postmortem	2	51	3	99	65.0	in	200.0	lb	33.28
+GTEX-ZG7Y	69.0	Organ Donor (OPO)	1	58	3	0	69.0	in	176.0	lb	25.99
+GTEX-ZGAY	63.0	Postmortem	2	43	3	99	63.0	in	189.2	lb	33.51
+GTEX-ZLFU	74.0	Organ Donor (OPO)	1	47	2	0	74.0	in	202.0	lb	25.93
+GTEX-ZLV1	65.0	Organ Donor (OPO)	2	61	3	0	65.0	in	185.0	lb	30.78
+GTEX-ZLWG	64.0	Organ Donor (OPO)	2	59	2	0	64.0	in	128.0	lb	21.97
+GTEX-ZP4G	66.0	Organ Donor (OPO)	2	29	3	0	66.0	in	148.5	lb	23.97
+GTEX-ZPCL	62.0	Organ Donor (OPO)	2	62	3	0	62.0	in	176.0	lb	32.19
+GTEX-ZPIC	66.0	Organ Donor (OPO)	2	48	3	0	66.0	in	155.0	lb	25.01
+GTEX-ZPU1	66.0	Organ Donor (OPO)	1	48	2	1	66.0	in	169.8	lb	27.4
+GTEX-ZQG8	66.0	Organ Donor (OPO)	2	65	3	0	66.0	in	165.0	lb	26.63
+GTEX-ZQUD	71.0	Organ Donor (OPO)	1	34	2	0	71.0	in	205.48	lb	28.66
+GTEX-ZT9W	73.0	Organ Donor (OPO)	1	54	3	0	73.0	in	198.0	lb	26.12
+GTEX-ZT9X	72.0	Organ Donor (OPO)	1	43	3	0	72.0	in	146.0	lb	19.8
+GTEX-ZTPG	65.0	Organ Donor (OPO)	2	21	3	0	65.0	in	165.4	lb	27.52
+GTEX-ZTSS	72.0	Organ Donor (OPO)	1	47	3	0	72.0	in	237.9	lb	32.26
+GTEX-ZTTD	72.0	Postmortem	1	50	3	99	72.0	in	220.0	lb	29.83
+GTEX-ZTX8	68.0	Organ Donor (OPO)	1	24	2	0	68.0	in	149.0	lb	22.65
+GTEX-ZUA1	69.0	Postmortem	1	46	3	99	69.0	in	198.0	lb	29.24
+GTEX-ZV68	62.0	Postmortem	2	57	3	0	62.0	in	115.0	lb	21.03
+GTEX-ZV6S	62.0	Organ Donor (OPO)	2	49	3	0	62.0	in	152.0	lb	27.8
+GTEX-ZV7C	68.0	Organ Donor (OPO)	1	54	2	0	68.0	in	197.0	lb	29.95
+GTEX-ZVE1	65.0	Postmortem	2	59	3	99	65.0	in	204.6	lb	34.04
+GTEX-ZVE2	71.0	Postmortem	1	59	3	99	71.0	in	200.0	lb	27.89
+GTEX-ZVP2	74.0	Organ Donor (OPO)	1	52	2	0	74.0	in	200.0	lb	25.68
+GTEX-ZVT2	60.0	Organ Donor (OPO)	2	59	3	0	60.0	in	123.2	lb	24.06
+GTEX-ZVT3	64.0	Postmortem	2	67	3	99	64.0	in	185.0	lb	31.75
+GTEX-ZVT4	65.4	Postmortem	2	56	3	99	65.4	in	202.4	lb	33.27
+GTEX-ZVTK	67.0	Postmortem	1	22	2	99	67.0	in	142.0	lb	22.24
+GTEX-ZVZP	73.0	Organ Donor (OPO)	1	58	3	0	73.0	in	226.0	lb	29.81
+GTEX-ZVZQ	68.0	Postmortem	2	62	3	99	68.0	in	198.0	lb	30.1
+GTEX-ZWKS	74.0	Postmortem	1	31	3	99	74.0	in	235.0	lb	30.17
+GTEX-ZXES	65.0	Organ Donor (OPO)	2	38	3	0	65.0	in	132.0	lb	21.96
+GTEX-ZXG5	74.0	Postmortem	1	66	3	0	74.0	in	235.0	lb	30.17
+GTEX-ZY6K	70.0	Organ Donor (OPO)	1	50	2	0	70.0	in	200.6	lb	28.78
+GTEX-ZYFC	67.0	Postmortem	1	57	2	99	67.0	in	200.0	lb	31.32
+GTEX-ZYFD	72.0	Postmortem	1	55	3	99	72.0	in	149.6	lb	20.29
+GTEX-ZYFG	64.0	Organ Donor (OPO)	2	67	3	0	64.0	in	180.4	lb	30.96
+GTEX-ZYT6	73.0	Postmortem	1	30	3	99	73.0	in	200.0	lb	26.38
+GTEX-ZYVF	60.0	Postmortem	2	54	3	99	60.0	in	169.4	lb	33.08
+GTEX-ZYW4	61.0	Postmortem	1	66	1	99	61.0	in	149.6	lb	28.26
+GTEX-ZYY3	58.67	Postmortem	2	67	3	99	58.67	in	103.4	lb	21.12
+GTEX-ZZ64	65.0	Organ Donor (OPO)	1	24	3	0	65.0	in	158.0	lb	26.29
+GTEX-ZZPT	70.0	Postmortem	1	53	3	99	70.0	in	146.0	lb	20.95
+GTEX-ZZPU	65.0	Organ Donor (OPO)	2	50	3	0	65.0	in	190.0	lb	31.61
