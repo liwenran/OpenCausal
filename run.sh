@@ -31,9 +31,15 @@ matlab causal_delta_score.m
 
 #Step 6: Prioritize causal variants
 ##-Fine-mapping analysis for a given loci
+##(1)Split donors
+python split_donors.py &
+##(2)Calculate lamda scores (Given the info of riskloci as input)
+python prepare_for_lamda.py &
+matlab calculate_lamda.m
+##(3)Calculate beta scores (Given the info of riskloci as input)
+matlab calculate_beta.m
+##(4)Prioritization and analysis
 python prioritize.py &
-##-Regress phenotype using delta scores of top-ranked variants
-python analyze.py &
-matlab analyze.m &
+
 
 
