@@ -3,8 +3,10 @@ import numpy as np
 
 def IDs():
 	ID_list = []
-	file = open('temp/var_seqs.donor'+str(i))
+	file = open('temp/var_seqs.fa')
 	for line in file:
+		if line[0]!='>':
+			continue
 		line = line.strip().split('\t')
 		ID_list.append('_'.join(line[:3]))
 	file.close()
