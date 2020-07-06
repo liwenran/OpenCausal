@@ -22,7 +22,7 @@ def extract_sequence():
                 var_seq = ref_seq[:var_pos]+ref_seq[var_pos+len(line[6]):]
             else:
                 print line[8+i]
-            region_list[i].append('>'+'_'.join(line[:6])+'\n'+var_seq)
+            region_list[i].append('>'+'_'.join(line[:6])+'\n'+var_seq) #same for ref_seq
     file.close()
 
     for i in range(num_donor):
