@@ -43,7 +43,7 @@ def random_split(k):
 	fout2.close()
 	return
 ##
-random_split(5)
+random_split(5) #5-fold
 
 
 
