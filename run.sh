@@ -22,6 +22,13 @@ python preprocessing.py &
 ##-Training using paired ENCODE data
 ##-Predict open scores for GTEx samples
 matlab predict.m
+##-Predict RE-level GTEx_open_score based on REF&WGS (reference genome+whole-genome sequencing data)
+#Generate RE_index for variants
+cat REs.bed|awk 'BEGIN{OFS="\t";id=1}{print $1,$2,$3,id++}'> RE_index.bed 
+bedtools intersect -a variants.txt -b RE_index.bed -f 0.99 -wa -wb|cut -f 13 > RE_idx #Only use top 9 columns of variants.txt
+#Calculate RE-level open scores
+#O_RE = O_RE_ref + sigma(O_var_WGS-O_var_REF)
+matlab RE_level_opn_server.m
 
 
 #Step 5: Delta score calculation
