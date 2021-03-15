@@ -12,16 +12,9 @@ def extract_sequence():
         count += 1
         ref_seq = str(fasta_sequence_dict[line[0]].seq[int(line[1]):int(line[2])])
         for i in range(num_donor):
-            if line[8+i]=='0/0':
-                continue
             if line[8+i]=='1/1' or line[8+i]=='1/0' or line[8+i]=='0/1':
                 var_pos = int(line[4])-int(line[1])
                 var_seq = ref_seq[:var_pos]+line[7]+ref_seq[var_pos+len(line[6]):]
-            elif line[8+i]=='./.':
-                var_pos = int(line[4])-int(line[1])
-                var_seq = ref_seq[:var_pos]+ref_seq[var_pos+len(line[6]):]
-            else:
-                print line[8+i]
             region_list[i].append('>'+'_'.join(line[:6])+'\n'+var_seq) #same for ref_seq
     file.close()
 
